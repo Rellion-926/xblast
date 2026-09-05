@@ -22,8 +22,8 @@ The recommended way to use this project is to download the published release
 package:
 
 - [v0.1.0 release](https://github.com/Rellion-926/xblast/releases/tag/v0.1.0)
-- `dflash-npu-8gen5-0p6b.zip`
-- `dflash-npu-8gen5-0p6b.zip.sha256`
+- `xblast-8gen5-0p6b.zip`
+- `xblast-8gen5-0p6b.zip.sha256`
 
 The archive contains the Android runtime binary, QNN libraries, the 0.6B target
 and draft context binaries, `embedding.fp16.bin`, `tokenizer.json`, and sample
