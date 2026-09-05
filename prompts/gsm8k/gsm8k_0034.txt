@@ -1,0 +1,2 @@
+Siobhan has 2 fewer jewels than Aaron. Aaron has 5 more jewels than half of Raymond's jewels. If Raymond has 40 jewels, how many jewels does Siobhan have?
+Please reason step by step, and put your final answer within \boxed{}.

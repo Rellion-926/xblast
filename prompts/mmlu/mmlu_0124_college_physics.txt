@@ -1,0 +1,9 @@
+The following is a multiple choice question about college physics.
+
+Question: Which of the following is true about any system that undergoes a reversible thermodynamic process?
+A. There are no changes in the internal energy of the system.
+B. The temperature of the system remains constant during the process.
+C. The entropy of the system and its environment remains unchanged.
+D. The entropy of the system and its environment must increase.
+
+Answer with the correct option letter and a brief explanation.

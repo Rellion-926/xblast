@@ -1,0 +1,9 @@
+The following is a multiple choice question about high school chemistry.
+
+Question: London dispersion forces are caused by
+A. temporary dipoles created by the position of electrons around the nuclei in a molecule
+B. the three-dimensional intermolecular bonding present in all covalent substances
+C. the uneven electron-to-proton ratio found on individual atoms of a molecule
+D. the electronegativity differences between the different atoms in a molecule
+
+Answer with the correct option letter and a brief explanation.

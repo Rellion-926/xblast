@@ -1,0 +1,9 @@
+The following is a multiple choice question about conceptual physics.
+
+Question: A completely submerged object always displaces its own
+A. weight of fluid.
+B. volume of fluid.
+C. density of fluid.
+D. All of these.
+
+Answer with the correct option letter and a brief explanation.

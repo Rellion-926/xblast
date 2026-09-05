@@ -1,0 +1,9 @@
+The following is a multiple choice question about astronomy.
+
+Question: If you know both the actual brightness of an object and its apparent brightness from your location then with no other information you can estimate:
+A. Its speed relative to you
+B. Its composition
+C. Its size
+D. Its distance from you
+
+Answer with the correct option letter and a brief explanation.

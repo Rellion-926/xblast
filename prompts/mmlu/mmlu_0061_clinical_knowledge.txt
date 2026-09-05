@@ -1,0 +1,9 @@
+The following is a multiple choice question about clinical knowledge.
+
+Question: The key attribute in successful marathon running is:
+A. strength.
+B. power.
+C. stride length.
+D. stamina.
+
+Answer with the correct option letter and a brief explanation.

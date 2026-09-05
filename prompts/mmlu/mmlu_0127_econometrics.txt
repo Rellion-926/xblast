@@ -1,0 +1,9 @@
+The following is a multiple choice question about econometrics.
+
+Question: If there were a leverage effect in practice, what would be the shape of the news impact curve for as model that accounted for that leverage?
+A. It would rise more quickly for negative disturbances than for positive ones of the same magnitude
+B. It would be symmetrical about zero
+C. It would rise less quickly for negative disturbances than for positive ones of the same magnitude
+D. It would be zero for all positive disturbances
+
+Answer with the correct option letter and a brief explanation.

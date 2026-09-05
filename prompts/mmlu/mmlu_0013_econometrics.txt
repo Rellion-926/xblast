@@ -1,0 +1,9 @@
+The following is a multiple choice question about econometrics.
+
+Question: Which one of the following is the most appropriate definition of a 99% confidence interval?
+A. 99% of the time in repeated samples, the interval would contain the true value of the parameter
+B. 99% of the time in repeated samples, the interval would contain the estimated value of the parameter
+C. 99% of the time in repeated samples, the null hypothesis will be rejected
+D. 99% of the time in repeated samples, the null hypothesis will not be rejected when it was false
+
+Answer with the correct option letter and a brief explanation.

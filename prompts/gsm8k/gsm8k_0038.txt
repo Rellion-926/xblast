@@ -1,0 +1,2 @@
+John runs 60 miles a week. He runs 3 days a week.  He runs 3 hours the first day and half as much the other two days he runs.  How fast does he run?
+Please reason step by step, and put your final answer within \boxed{}.

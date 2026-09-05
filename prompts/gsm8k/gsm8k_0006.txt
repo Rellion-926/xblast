@@ -1,0 +1,2 @@
+Toulouse has twice as many sheep as Charleston. Charleston has 4 times as many sheep as Seattle. How many sheep do Toulouse, Charleston, and Seattle have together if Seattle has 20 sheep?
+Please reason step by step, and put your final answer within \boxed{}.

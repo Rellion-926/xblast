@@ -1,0 +1,2 @@
+Cody eats three times as many cookies as Amir eats. If Amir eats 5 cookies, how many cookies do both of them eat together?
+Please reason step by step, and put your final answer within \boxed{}.

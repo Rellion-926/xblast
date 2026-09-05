@@ -1,0 +1,9 @@
+The following is a multiple choice question about logical fallacies.
+
+Question: A valid disjunctive syllogism has a major premise that:
+A. includes two or more alternatives
+B. classifies subjects
+C. affirms the antecedent or denies the consequent
+D. leads to a valid conclusion
+
+Answer with the correct option letter and a brief explanation.

@@ -1,0 +1,2 @@
+John buys 2 pairs of shoes for each of his 3 children.  They cost $60 each.  How much did he pay?
+Please reason step by step, and put your final answer within \boxed{}.

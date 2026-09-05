@@ -1,0 +1,9 @@
+build*/
+bench_logs/
+tmp/
+deploy/8gen5/
+deploy/**/dflash-runtime
+*.bin
+*.so
+*.fp16.bin
+*.perfetto-trace

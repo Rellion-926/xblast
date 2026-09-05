@@ -1,0 +1,2 @@
+Miguel uses 2 pads of paper a week for his drawing. If there are 30 sheets of paper on a pad of paper, how many sheets of paper does he use every month?
+Please reason step by step, and put your final answer within \boxed{}.

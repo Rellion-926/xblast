@@ -1,0 +1,9 @@
+The following is a multiple choice question about abstract algebra.
+
+Question: Find all zeros in the indicated finite field of the given polynomial with coefficients in that field. x^5 + 3x^3 + x^2 + 2x in Z_5
+A. 0
+B. 1
+C. 0,1
+D. 0,4
+
+Answer with the correct option letter and a brief explanation.

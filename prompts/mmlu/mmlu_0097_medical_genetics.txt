@@ -1,0 +1,9 @@
+The following is a multiple choice question about medical genetics.
+
+Question: Zinc finger proteins and helix-turn-helix proteins are
+A. types of DNA-binding proteins
+B. involved in the control of translation
+C. components of ribosomes
+D. part of the hemoglobin in blood cells
+
+Answer with the correct option letter and a brief explanation.

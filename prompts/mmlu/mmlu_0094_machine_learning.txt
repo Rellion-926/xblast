@@ -1,0 +1,9 @@
+The following is a multiple choice question about machine learning.
+
+Question: Statement 1| RoBERTa pretrains on a corpus that is approximate 10x larger than the corpus BERT pretrained on. Statement 2| ResNeXts in 2018 usually used tanh activation functions.
+A. True, True
+B. False, False
+C. True, False
+D. False, True
+
+Answer with the correct option letter and a brief explanation.

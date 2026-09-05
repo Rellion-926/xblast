@@ -1,0 +1,2 @@
+Jan has three times the number of pets as Marcia. Marcia has two more pets than Cindy. If Cindy has four pets, how many total pets do the three have?
+Please reason step by step, and put your final answer within \boxed{}.

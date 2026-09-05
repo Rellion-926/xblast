@@ -1,0 +1,11 @@
+The following is a multiple choice question about computer security.
+
+Question: Assume that a TLS connection has been established successfully between a client and a server. Establishing the session included checking the server certificate and executing a DiffieHelmann exchange, but the client did not provide a client certificate. Further, assume that the client and server are honest, that the client and server don’t leak their keys, and that the cryptography is good. Which of the following attacks does TLS protect against?
+1. An attacker replaying bytes that a client sent earlier.
+2. An attacker impersonating the server.
+A. True, True
+B. False, False
+C. True, False
+D. False, True
+
+Answer with the correct option letter and a brief explanation.

@@ -1,0 +1,9 @@
+The following is a multiple choice question about elementary mathematics.
+
+Question: Ms. Perez drove a total of 40 miles in 5 days. She drove the same number of miles each day. How many miles did Ms. Perez drive each day?
+A. 5
+B. 7
+C. 8
+D. 9
+
+Answer with the correct option letter and a brief explanation.

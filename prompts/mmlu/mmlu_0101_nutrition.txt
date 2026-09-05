@@ -1,0 +1,10 @@
+The following is a multiple choice question about nutrition.
+
+Question: In which one of the following circumstances will the prevalence of a disease in the population increase, all else being constant?
+
+A. If the incidence rate of the disease falls.
+B. If survival time with the disease increases.
+C. If recovery of the disease is faster.
+D. If the population in which the disease is measured increases.
+
+Answer with the correct option letter and a brief explanation.

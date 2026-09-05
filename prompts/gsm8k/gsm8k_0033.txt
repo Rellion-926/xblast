@@ -1,0 +1,2 @@
+Gretchen has 110 coins. There are 30 more gold coins than silver coins. How many gold coins does Gretchen have?
+Please reason step by step, and put your final answer within \boxed{}.

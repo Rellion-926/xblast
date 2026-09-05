@@ -1,0 +1,9 @@
+The following is a multiple choice question about high school physics.
+
+Question: The plates of a capacitor are charged to a potential difference of 5 V. If the capacitance is 2 mF, what is the charge on the positive plate?
+A. 0.005 C
+B. 0.01 C
+C. 0.02 C
+D. 0.5 C
+
+Answer with the correct option letter and a brief explanation.

@@ -1,0 +1,9 @@
+The following is a multiple choice question about college chemistry.
+
+Question: Infrared (IR) spectroscopy is useful for determining certain aspects of the structure of organic molecules because
+A. all molecular bonds absorb IR radiation
+B. IR peak intensities are related to molecular mass
+C. most organic functional groups absorb in a characteristic region of the IR spectrum
+D. each element absorbs at a characteristic wavelength
+
+Answer with the correct option letter and a brief explanation.

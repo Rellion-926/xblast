@@ -1,0 +1,2 @@
+Two girls each got 1/6 of the 24 liters of water. Then a boy got 6 liters of water. How many liters of water were left?
+Please reason step by step, and put your final answer within \boxed{}.

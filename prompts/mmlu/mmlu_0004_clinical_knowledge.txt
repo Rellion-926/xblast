@@ -1,0 +1,9 @@
+The following is a multiple choice question about clinical knowledge.
+
+Question: What size of cannula would you use in a patient who needed a rapid blood transfusion (as of 2020 medical knowledge)?
+A. 18 gauge.
+B. 20 gauge.
+C. 22 gauge.
+D. 24 gauge.
+
+Answer with the correct option letter and a brief explanation.

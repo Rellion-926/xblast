@@ -1,0 +1,2 @@
+A football team played 22 games. They won 8 more than they lost. How many did they win?
+Please reason step by step, and put your final answer within \boxed{}.

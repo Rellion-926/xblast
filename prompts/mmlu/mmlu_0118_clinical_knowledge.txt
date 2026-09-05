@@ -1,0 +1,9 @@
+The following is a multiple choice question about clinical knowledge.
+
+Question: Which of the following is the commonest cause of dementia in the UK?
+A. Alzheimer's disease.
+B. Cerebrovascular (stroke) disease.
+C. Lewy body dementia.
+D. HIV infection.
+
+Answer with the correct option letter and a brief explanation.

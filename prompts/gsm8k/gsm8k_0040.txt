@@ -1,0 +1,2 @@
+Brandon's iPhone is four times as old as Ben's iPhone. Ben's iPhone is two times older than Suzy's iPhone. If Suzy’s iPhone is 1 year old, how old is Brandon’s iPhone?
+Please reason step by step, and put your final answer within \boxed{}.

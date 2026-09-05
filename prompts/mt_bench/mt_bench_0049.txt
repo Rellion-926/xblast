@@ -1,0 +1,1 @@
+Implement a program to find the common elements in two arrays without using any extra data structures.

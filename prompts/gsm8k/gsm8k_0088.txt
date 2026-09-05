@@ -1,0 +1,2 @@
+Marilyn's first record sold 10 times as many copies as Harald's. If they sold 88,000 copies combined, how many copies did Harald sell?
+Please reason step by step, and put your final answer within \boxed{}.

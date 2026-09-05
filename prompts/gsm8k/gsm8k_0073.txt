@@ -1,0 +1,2 @@
+Shiela bought five cell phones for $150 each for a 3-month installment. A 2% interest will be charged for each unit. How much will Shiela pay each month for 3 months?
+Please reason step by step, and put your final answer within \boxed{}.

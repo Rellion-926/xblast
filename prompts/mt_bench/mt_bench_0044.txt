@@ -1,0 +1,1 @@
+Write a function to find the highest common ancestor (not LCA) of two nodes in a binary tree.

@@ -1,0 +1,2 @@
+Poppy is solving a 1000-piece jigsaw puzzle. She places a quarter of the pieces on the board, then her mom places a third of the remaining pieces. How many jigsaw pieces are left to be placed?
+Please reason step by step, and put your final answer within \boxed{}.

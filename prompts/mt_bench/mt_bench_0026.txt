@@ -1,0 +1,1 @@
+A is the father of B. B is the father of C. What is the relationship between A and C?

@@ -1,0 +1,2 @@
+Harry slept 9 hours last night. His friend James slept only 2/3 of what Harry slept. How many more hours did Harry sleep than James?
+Please reason step by step, and put your final answer within \boxed{}.

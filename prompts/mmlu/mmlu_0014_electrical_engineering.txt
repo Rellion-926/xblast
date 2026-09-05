@@ -1,0 +1,9 @@
+The following is a multiple choice question about electrical engineering.
+
+Question: The Barkhausen criterion for an oscillator
+A. Loop gain should be unity
+B. Loop gain should be less than unity
+C. The phase of a feedback signal with respect to input should be 0° or 360°
+D. Both A and C
+
+Answer with the correct option letter and a brief explanation.

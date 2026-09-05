@@ -1,0 +1,1 @@
+How many integers are in the solution of the inequality |x + 5| < 10

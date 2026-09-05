@@ -1,0 +1,9 @@
+The following is a multiple choice question about high school computer science.
+
+Question: Let x = 1. What is x << 3 in Python 3?
+A. 1
+B. 3
+C. 8
+D. 16
+
+Answer with the correct option letter and a brief explanation.

@@ -1,0 +1,9 @@
+The following is a multiple choice question about high school computer science.
+
+Question: In Python 3, which of the following function convert a string to an int in python?
+A. int(x [,base])
+B. long(x [,base] )
+C. float(x)
+D. str(x)
+
+Answer with the correct option letter and a brief explanation.

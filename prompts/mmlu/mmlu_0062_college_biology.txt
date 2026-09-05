@@ -1,0 +1,9 @@
+The following is a multiple choice question about college biology.
+
+Question: A frameshift mutation is created when
+A. telomeric sequences are removed from DNA
+B. a codon's nucleotide sequence changes so that it calls for production of a different amino acid than the original one
+C. a base pair is either inserted or deleted in a gene
+D. a codon's nucleotide sequence is changed so that instead of coding for a given amino acid it acts to terminate translation
+
+Answer with the correct option letter and a brief explanation.

@@ -1,0 +1,2 @@
+John adopts a dog.  He takes the dog to the groomer, which costs $100.  The groomer offers him a 30% discount for being a new customer.  How much does the grooming cost?
+Please reason step by step, and put your final answer within \boxed{}.

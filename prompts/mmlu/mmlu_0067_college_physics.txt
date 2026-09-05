@@ -1,0 +1,9 @@
+The following is a multiple choice question about college physics.
+
+Question: White light is normally incident on a puddle of water (index of refraction 1.33). A thin (500 nm) layer of oil (index of refraction 1.5) floats on the surface of the puddle. Of the following, the most strongly reflected wavelength is
+A. 500 nm
+B. 550 nm
+C. 600 nm
+D. 650 nm
+
+Answer with the correct option letter and a brief explanation.

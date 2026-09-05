@@ -1,0 +1,9 @@
+The following is a multiple choice question about college mathematics.
+
+Question: Let k be the number of real solutions of the equation e^x + x - 2 = 0 in the interval [0, 1], and let n be the number of real solutions that are not in [0, 1]. Which of the following is true?
+A. k = 0 and n = 1
+B. k = 1 and n = 0
+C. k = n = 1
+D. k > 1
+
+Answer with the correct option letter and a brief explanation.

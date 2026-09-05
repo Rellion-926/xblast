@@ -1,0 +1,9 @@
+The following is a multiple choice question about astronomy.
+
+Question: Why is the sky blue?
+A. Because the molecules that compose the Earth's atmosphere have a blue-ish color.
+B. Because the sky reflects the color of the Earth's oceans.
+C. Because the atmosphere preferentially scatters short wavelengths.
+D. Because the Earth's atmosphere preferentially absorbs all other colors.
+
+Answer with the correct option letter and a brief explanation.

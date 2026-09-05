@@ -1,0 +1,9 @@
+The following is a multiple choice question about college mathematics.
+
+Question: Up to isomorphism, how many additive abelian groups G of order 16 have the property that x + x + x + x = 0 for each x in G ?
+A. 0
+B. 1
+C. 2
+D. 3
+
+Answer with the correct option letter and a brief explanation.

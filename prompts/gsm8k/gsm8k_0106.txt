@@ -1,0 +1,2 @@
+John has 3 boxes.  Each box is 5 inches by 6 inches by 4 inches.  The walls are 1 inch thick.  What is the total inner volume of all 3 boxes?
+Please reason step by step, and put your final answer within \boxed{}.

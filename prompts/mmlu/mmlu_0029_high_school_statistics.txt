@@ -1,0 +1,9 @@
+The following is a multiple choice question about high school statistics.
+
+Question: The weight of an aspirin tablet is 300 milligrams according to the bottle label. An FDA investigator weighs a simple random sample of seven tablets, obtains weights of 299, 300, 305, 302, 299, 301, and 303, and runs a hypothesis test of the manufacturer's claim. Which of the following gives the P-value of this test?
+A. P(t > 1.54) with df = 6
+B. 2P(t > 1.54) with df = 6
+C. P(t > 1.54) with df = 7
+D. 2P(t > 1.54) with df = 7
+
+Answer with the correct option letter and a brief explanation.

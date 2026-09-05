@@ -1,0 +1,9 @@
+The following is a multiple choice question about elementary mathematics.
+
+Question: What is the value of p in 24 = 2p?
+A. p = 4
+B. p = 8
+C. p = 12
+D. p = 24
+
+Answer with the correct option letter and a brief explanation.

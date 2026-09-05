@@ -1,0 +1,2 @@
+Darrell and Allen's ages are in the ratio of 7:11. If their total age now is 162, calculate Allen's age 10 years from now.
+Please reason step by step, and put your final answer within \boxed{}.

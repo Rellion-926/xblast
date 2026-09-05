@@ -1,0 +1,9 @@
+The following is a multiple choice question about business ethics.
+
+Question: _______ such as bitcoin are becoming increasingly mainstream and have a whole host of associated ethical implications, for example, they are______ and more ______. However, they have also been used to engage in _______.
+A. Cryptocurrencies, Expensive, Secure, Financial Crime
+B. Traditional currency, Cheap, Unsecure, Charitable giving
+C. Cryptocurrencies, Cheap, Secure, Financial crime
+D. Traditional currency, Expensive, Unsecure, Charitable giving
+
+Answer with the correct option letter and a brief explanation.

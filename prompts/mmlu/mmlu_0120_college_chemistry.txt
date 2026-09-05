@@ -1,0 +1,9 @@
+The following is a multiple choice question about college chemistry.
+
+Question: What is the maximum number of phases that can be at equilibrium with each other in a three component mixture?
+A. 2
+B. 3
+C. 4
+D. 5
+
+Answer with the correct option letter and a brief explanation.
