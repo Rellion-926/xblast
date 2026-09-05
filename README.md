@@ -1,6 +1,6 @@
-# DFlash NPU
+# xBlast
 
-Minimal standalone DFlash runtime for Qualcomm QNN/HTP deployment.
+Minimal standalone xBlast runtime for Qualcomm QNN/HTP deployment.
 
 This repository contains the runtime code and packaging scripts needed to run
 dataset prompts on device. Prebuilt device packages are published in GitHub
@@ -21,7 +21,7 @@ Releases. The runtime can consume either Qwen3 text prompts with
 The recommended way to use this project is to download the published release
 package:
 
-- [v0.1.0 release](https://github.com/Rellion-926/dflash-npu/releases/tag/v0.1.0)
+- [v0.1.0 release](https://github.com/Rellion-926/xblast/releases/tag/v0.1.0)
 - `dflash-npu-8gen5-0p6b.zip`
 - `dflash-npu-8gen5-0p6b.zip.sha256`
 
